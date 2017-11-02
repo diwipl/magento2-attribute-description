@@ -1,5 +1,5 @@
 {
-    "name": "dmatthew/magento2-attribute-description",
+    "name": "diwipl/magento2-attribute-description",
     "description": "Add descriptions to your product attributes.",
     "require": {
         "php": "~5.5.0|~5.6.0|~7.0.0",
