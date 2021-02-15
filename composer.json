@@ -1,11 +1,6 @@
 {
     "name": "diwipl/magento2-attribute-description",
     "description": "Add descriptions to your product attributes.",
-    "require": {
-        "magento/module-store": "100.1.*|100.2.*|^101.0.2",
-        "magento/module-eav": "100.1.*|^101.0.0|^102.0.2",
-        "magento/module-catalog": "101.0.*|^102.0.0|^103.0.2"
-    },
     "type": "magento2-module",
     "version": "0.0.1",
     "license": [
